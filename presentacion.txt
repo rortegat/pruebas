@@ -1,4 +1,21 @@
-Ricardo Iván Ortega Tapia
-28 años
-Matemáticas Apĺicadas y Computación
-Java, C, C++
+Ricardo Ortega
+30 años
+Lic. Matemáticas Aplicadas y Computación
+
+Backend:
+  Lenguajes
+    Java, C#, Python
+  Frameworks:
+    Spring Boot, Net Core, Flask
+  Tecnologías:
+    AWS, Docker, Kubernetes.
+  Bases de Datos:
+    MySQL, SQL Server, MongoDB.
+    
+Frontend:
+  Lenguajes:
+    JavaScript, TypeScript
+  Framework:
+    Angular
+  Stilos:
+    SASS, Angular Material, Bootstrap
